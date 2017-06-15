@@ -1,2 +1,5 @@
 # helloGit
-learGit
+learn Git
+
+let us live our lives
+
