@@ -1,8 +1,9 @@
-if(favChar == "Tanmay Sinha")
+if(favChar=="Tanmay Sinha")
 {
-	print "You have chosen my fav character too!Tanmay Sinha"
+	print("Tanmay Sinha")
 }
 else
 {
-	print "Tanmay Sinha is better"
+	print("Tanmay Sinha is better")
 }
+
