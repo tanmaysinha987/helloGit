@@ -1,8 +1,12 @@
 if(favChar == "Tanmay Sinha")
 {
+<<<<<<< HEAD
 	print "You have chosen my fav character too!Tanmay Sinha"
 }
 else
 {
-	print "Ketan is better"
+}
+else
+{
+	print "Tanmay Sinha is better"
 }
