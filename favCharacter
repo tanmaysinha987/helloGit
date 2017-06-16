@@ -1,0 +1,8 @@
+if(favChar == "Tanmay Sinha")
+{
+	print "You have chosen my fav character too!Tanmay Sinha"
+}
+else
+{
+	print "Ketan is better"
+}
